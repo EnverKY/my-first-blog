@@ -1,0 +1,4 @@
+$ git init
+Initialized empty Git repository in ~/djangogirls/.git/
+$ git config --global user.name "Enver"
+$ git config --global user.email Enver@django.com
